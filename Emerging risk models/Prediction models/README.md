@@ -1,1 +1,1 @@
-This folder contains the emerging risk prediction models created for HOLiFOOD
+This folder contains the emerging risk prediction models created for HOLiFOOD.
