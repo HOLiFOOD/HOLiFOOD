@@ -1,4 +1,4 @@
-This folder contains the emerging risk prediction models created for HOLiFOOD.
+This folder contains the prediction models created for HOLiFOOD.
 
 Models were developed to predict pesticide residue levels in the supply chains of maize, chicken, and lentils. The model input included a combination of categorical and numerical variables. Contamination level was used as model output, indicating whether the pesticide residue levels exceeded the limit of quantification as a binary variable. Separate models were constructed for each supply chain, utilizing monitoring data sourced from different repositories. The maize supply chain model utilized data from KAP, while data from AGROKNOW was utilized for the chicken and lentils supply chain models. As a data preprocessing step, the categorical variables were encoded using one-hot encoding. This is a step to translate the categorical variables into a numerical encoding, which is needed because many machine learning algorithms can't handle categorical input. 
 
