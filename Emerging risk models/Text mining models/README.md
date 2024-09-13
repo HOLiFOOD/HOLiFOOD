@@ -9,7 +9,7 @@ The Europe Media Monitor (EMM) was utilized as a key source of input data for to
 
 Different topic detection tools have been selected to be tested/benchmarked. Data retrieval, text pre-processing and topic modeling workflows have been developed in KNIME software. Food safety news from Europe Media Monitor have been retrieved as input for topic modeling. A workflow, including data retrieval and text pre-processing algorithms for co-occurrence network analysis of EMM news have been developed. Based on algorithm testing with demo datasets for different topic modeling frameworks and visualization options, dynamic BERTopic has been selected as the best option. 
 
-**_Building up the BERTopic framework _**
+**_Building up the BERTopic framework_**
   
 _Data retrieval_
 
