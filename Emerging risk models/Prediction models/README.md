@@ -7,3 +7,5 @@ Several machine learning algorithms were implemented to make pesticide residual 
 The results were displayed to each supply chain model. It is important to note that no external validation was performed due to the limitation of the available data. Consequently, this model represents a preliminary version and is subject to several limitations. As more data becomes available, the model will be updated and refined.
 
 The current model is the first version, and there are inherent limitations in the model, code, and related results that will be addressed in future iterations.  Continuous updates and enhancements will ensure that the model becomes more robust and reliable over time.
+
+The models are currently being updated with the new CompreHensive European Food Safety (CHEFS) database [paper](https://arxiv.org/abs/2507.13802) [code](https://github.com/WFSRDataScience/CHEFS/tree/main)
